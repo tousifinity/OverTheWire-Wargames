@@ -40,7 +40,7 @@
     cat data.txt
     ```
 
-    Output (example, ROT13 gibberish):
+    Output:
 
     ```
     Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4
