@@ -49,8 +49,5 @@
 ---
 
 ### 🔑 Password for Level 1: 
-
-    ```
     ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-    ```
 
