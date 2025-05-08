@@ -43,5 +43,3 @@ This repository contains a level-by-level walkthrough of the **Bandit** wargame 
     ```
     bandit0@bandit:~$
     ```
-
-### 🔑 Password for Level 1
