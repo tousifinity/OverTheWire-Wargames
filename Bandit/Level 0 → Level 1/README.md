@@ -8,7 +8,7 @@
 
 ### 🛠 Tools Used
 
-- Terminal (Linux/macOS) or SSH client
+- Linux Terminal
 - Basic Linux commands: `ls`, `cat`
 
 ---
