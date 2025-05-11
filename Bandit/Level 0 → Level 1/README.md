@@ -9,7 +9,7 @@
 ### 🛠 Tools Used
 
 - Linux Terminal
-- Basic Linux commands: `ls`, `cat`
+- Command used: `ls`, `cat`
 
 ---
 
