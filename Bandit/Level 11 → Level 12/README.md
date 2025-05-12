@@ -9,7 +9,7 @@
 ### 🛠 Tools Used
 
 - Linux Terminal
-- Command-line tools: `cat`, `tr`
+- Command used: `cat`, `tr`
 
 ---
 
